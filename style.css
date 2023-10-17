@@ -1,0 +1,24 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    top: 15%;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1cm;
+    width: 100%;
+}
+
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0,02em;
+}
